@@ -22,4 +22,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+RoadMap:
+
+##### [] picture about workplace out of pandemic times.
+##### [] information about Research DDoS
+##### [] R project about text analysis functions
+##### [] R project about features memorys and processors 
+##### [] R study group
+##### [] python projects:
+##### [] [] google calendar apointments scraping
+##### [] [] system information to research about students from course
+
+
 -->
