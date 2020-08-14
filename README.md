@@ -3,7 +3,7 @@ My name is Mateus Pelloso. I'm from Brazil.
 
 In my free time I dedicate to reading books and learning about everything, almost everything!
 
-You can find me on [linkedIn](linkedin.com/in/mateus-pelloso-2924833)
+You can find me on [linkedIn](http://linkedin.com/in/mateus-pelloso-2924833)
 
 <!--
 **mateuspelloso/mateuspelloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
