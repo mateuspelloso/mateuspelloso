@@ -28,7 +28,7 @@ RoadMap:
 ##### [] picture about workplace out of pandemic times.
 ##### [] information about Research DDoS
 ##### [] R project about text analysis functions
-##### [] R project about features memorys and processors 
+##### [] R text about features memorys and processors 
 ##### [] R study group
 ##### [] python projects:
 ##### [] [] google calendar apointments scraping
