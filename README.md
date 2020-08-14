@@ -31,6 +31,7 @@ RoadMap:
 ##### [] creates list about git/github sites, texts, articles and videos
 ##### [] picture about workplace out of pandemic times.
 ##### [] information about Research DDoS
+##### [] should I create a repository to expose scripts about DDoS research? I don't know!
 ##### [] R project about text analysis functions
 ##### [] R text about features memorys and processors 
 ##### [] R study group
