@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 
 RoadMap:
 
+##### [x] start learning about git
+##### [x] start learning about github
+##### [] finish watching youtube about git
+##### [] creates list about git/github sites, texts, articles and videos
 ##### [] picture about workplace out of pandemic times.
 ##### [] information about Research DDoS
 ##### [] R project about text analysis functions
@@ -33,6 +37,7 @@ RoadMap:
 ##### [] python projects:
 ##### [] [] google calendar apointments scraping
 ##### [] [] system information to research about students from course
+##### [] blog oconfinado.com.br
 
 
 -->
