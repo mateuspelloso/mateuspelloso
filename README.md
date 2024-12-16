@@ -1,5 +1,5 @@
 ### Hi there! 😎
-My name is Mateus Pelloso. I'm from Brazil.
+My name is Mateus Pelloso, I'm from Brazil
 
 In my free time I dedicate to reading books and learning about everything, almost everything!
 
@@ -7,7 +7,7 @@ In pandemic times my workplace is...
 
 ![workplace](https://github.com/mateuspelloso/mateuspelloso/blob/master/workplace.jpeg)
 
-You can find me on [linkedIn](http://linkedin.com/in/mateus-pelloso-2924833)
+You can find me on [linkedIn](http://linkedin.com/in/mateus-pelloso)
 
 <!--
 **mateuspelloso/mateuspelloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
