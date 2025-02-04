@@ -5,6 +5,7 @@ In my free time I dedicate to reading books and learning about everything, almos
 In pandemic times my workplace is...
 
 ![workplace](https://github.com/mateuspelloso/mateuspelloso/blob/master/workplace.jpeg)
+
 You can find me on [linkedIn](http://linkedin.com/in/mateus-pelloso)
 
 <!--
