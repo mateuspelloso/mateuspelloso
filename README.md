@@ -1,5 +1,5 @@
 ### Hi there! 😎
-My name is Mateus Pelloso, I'm from Brazil
+My name is Mateus Pelloso,
 
 In my free time I dedicate to reading books and learning about everything, almost everything!
 In pandemic times my workplace is...
